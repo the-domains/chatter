@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chatter]]></title>
+        <description><![CDATA[Chatter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 20:54:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>You will be given questions by our system to which you will answer. Try to give answers to the questions as soon as possible. And improve your progress over time. Your answers to questions don't have to be correct. Just imagine talking with one of your friends or with the person you just met at the bar.</p>]]></description>
+            <link>undefinedyou-will-be-given/index.html</link>
+            <guid isPermaLink="false">55389e9f-e1c9-48c1-808b-387d7cc5f1f6</guid>
+            <pubDate>Fri, 08 Apr 2016 20:53:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

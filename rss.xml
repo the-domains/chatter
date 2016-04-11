@@ -4,7 +4,7 @@
         <description><![CDATA[Chatter]]></description>
         <link>https://thegrid.ai/chatter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 21:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 21:49:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chatter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chatter/you-will-be-given/index.html</link>
             <guid isPermaLink="false">55389e9f-e1c9-48c1-808b-387d7cc5f1f6</guid>
             <pubDate>Mon, 11 Apr 2016 20:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>bla bla bla</p>]]></description>
+            <link>https://thegrid.ai/chatter/bla-bla-bla/index.html</link>
+            <guid isPermaLink="false">8fd481f2-2259-453c-bfa6-7c797eb547b4</guid>
+            <pubDate>Mon, 11 Apr 2016 21:49:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
